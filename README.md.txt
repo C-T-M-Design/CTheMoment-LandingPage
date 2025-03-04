@@ -6,3 +6,10 @@ Welcome to **C The Moment**, a professional photography and videography service 
 🔗 [View the live site](https://yourusername.github.io/CTheMoment-LandingPage/)
 
 ## 📂 Project Structure
+
+CTheMoment-LandingPage/
+│── index.html
+│── style.css
+│── script.js  (if any)
+│── images/    (for any images)
+│── README.md
